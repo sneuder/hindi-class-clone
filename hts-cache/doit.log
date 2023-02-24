@@ -1,0 +1,8 @@
+-qir2C1%Ps2u1%s%uN100%I0p3DaK0T30H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "" -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\USUARIO\Documents\class2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Thu, 23 Feb 2023 19:48:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
